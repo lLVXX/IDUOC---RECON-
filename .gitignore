@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# Entorno y configuración
+.env
+venv/
+.venv/
+
+# Archivos de medios
+media/
+
+# IDEs / editores
+.vscode/
+.idea/
+
+# Docker
+docker-compose.override.yml
+*.log
